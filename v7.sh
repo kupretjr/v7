@@ -61,8 +61,8 @@ clear;clear;clear
 
 # // Banner
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-echo -e "\033[92;1m              𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝗦𝗖𝗥𝗜𝗣𝗧 𝗙𝗔𝗡𝗡𝗧𝗨𝗡𝗘𝗟              \033[0m"
-echo -e "  Developer » Klmpk𝗙𝗡VPN Tunneling{YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
+echo -e "\033[92;1m              𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝗦𝗖𝗥𝗜𝗣𝗧 KUPRETJR              \033[0m"
+echo -e "  Developer » KUPRETJR Tunneling{YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e "  » This Will Quick Setup VPN Server On Your Server"
 echo -e "  Pembuat : ${green}𝗙𝗔𝗡uzijww ${NC}"
 echo -e "  Recode By My Self NZNXAJW VPN STORE ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
