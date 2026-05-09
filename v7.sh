@@ -1121,7 +1121,6 @@ rm -rf /root/domain
 rm -rf /etc/noobz
 mkdir -p /etc/noobz
 echo "" > /etc/xray/noob
-#sudo hostnamectl set-hostname $user
 secs_to_human "$(($(date +%s) - ${start}))"
 sudo hostnamectl set-hostname $username
 echo ""echo -e "\e[94;1m╔═════════════════════════════════════════════════╗\e[0m"
