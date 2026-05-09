@@ -953,7 +953,7 @@ print_success "All Packet"
 function menu(){
     clear
     print_install "Memasang Menu Packet"
-    wget https://raw.githubusercontent.com/Pemulaajiw/v7/main/limit/menu.zip
+    wget https://raw.githubusercontent.com/kupretjr/v7/main/limit/menu.zip
     7z x -pFanVpnID0311 menu.zip
     chmod +x menu/*
     mv menu/* /usr/local/sbin
