@@ -332,8 +332,8 @@ else
 sts="${Error}"
 fi
 TIMES="10"
-CHATID="6197482164"
-KEY="7257456294:AAF_EwHS4dMkbnnRdlR3TLJu7eK225Lbb3Y"
+CHATID="ISI_CHATID"
+KEY="ISI_KEY"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
     TIMEZONE=$(printf '%(%H:%M:%S)T')
     TEXT="
